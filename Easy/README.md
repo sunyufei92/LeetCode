@@ -1,1 +1,1 @@
-Diffculty: Easy
+**Diffculty: Easy**
